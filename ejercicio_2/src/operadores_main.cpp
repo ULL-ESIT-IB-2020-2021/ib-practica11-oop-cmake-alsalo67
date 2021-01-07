@@ -1,3 +1,16 @@
+/**
+ * Universidad de La Laguna
+ * Escuela Superior de Ingeniería y Tecnología
+ * Grado en Ingeniería Informática
+ * Informática Básica
+ *
+ * @author Alejandro Melian Lemes
+ * @date 6.enero.2021
+ * @brief Este programa muestra mediante la utilización de clases la fecha introducida por el usuario.
+ *        Así como si el año es bisiesto o no.
+ * @see https://github.com/ULL-ESIT-IB-2020-2021/IB-P11-Classes-CMake/blob/master/Classes-CMake.md
+ */
+
 #include <iostream>
 #include <stdexcept>
 #include <limits>
