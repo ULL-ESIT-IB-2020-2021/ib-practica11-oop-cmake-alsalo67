@@ -107,7 +107,8 @@ public:
 
 int main (int argc, char*argv[]){
     std::string conversion_1 = argv[1]; std::string conversion_2 = argv[2]; std::string conversion_3 = argv[3];
-    int year = stoi(conversion_1); int month = stoi(conversion_2); int day = stoi(conversion_3); 
-    Date Complex {year, month, day};
-    today.printYear();
-    today.bisiesto();
+    int valor_1 = stoi(conversion_1); int valor_2 = stoi(conversion_2); 
+    Complex {valor_1, valor_2};
+    Racional {valor_1, valor_2};
+    Complex.add();
+}
